@@ -53,7 +53,7 @@ Exploratory Data Analysis identifying customer churn patterns and retention oppo
 
 ### 📫 Let's Connect
 
-- 💼 **LinkedIn:** linkedin.com/in/darshil-d-895394193/
+- 💼 **LinkedIn:**  [Connect with me](https://linkedin.com/in/darshil-d-895394193/)
 - 📧 **Email:** darshildave2021@gmail.com
 - 📍 **Location:** Mumbai, Maharashtra, India
 
