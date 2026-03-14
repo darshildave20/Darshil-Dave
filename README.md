@@ -45,9 +45,10 @@ Interactive Power BI dashboard for insurance analytics with advanced DAX measure
 - **Key Features:** Policy tracking, claims analysis, business intelligence reporting
 
 #### 📈 [Customer Churn Analysis - Python EDA](https://github.com/darshildave20/customer-churn-analysis-python)
-Exploratory Data Analysis identifying customer churn patterns and retention opportunities.
-- **Tech Stack:** Python, Pandas, NumPy, Data Visualization
-- **Key Insights:** Churn pattern identification, customer segmentation, actionable recommendations
+Exploratory Data Analysis of 7,043 customer records identifying churn patterns and retention opportunities.
+- **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
+- **Key Insights:** Tenure impact on retention, payment method analysis, customer segmentation
+
 
 ---
 
