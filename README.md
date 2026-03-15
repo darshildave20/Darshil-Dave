@@ -1,4 +1,4 @@
-# Hi there, I'm Darshil 👋
+# Hi there, I'm Darshil Dave 
 
 ## Senior Data Analyst | Supply Chain Analytics Specialist
 
