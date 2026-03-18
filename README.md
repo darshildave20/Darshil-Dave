@@ -39,8 +39,8 @@ With **6+ years of experience** at Accenture, I specialize in transforming suppl
 
 ### 📂 Featured Projects
 
-#### 🏥 [Insurance Policy Analysis - Power BI Dashboard](https://github.com/darshildave20/Insurance-PowerBI-report)
-Interactive Power BI dashboard for insurance analytics with advanced DAX measures and optimized data models.
+#### 🏥 [Insurance Policy Analysis - Power BI Report](https://github.com/darshildave20/Insurance-PowerBI-report)
+Interactive Power BI Report for insurance analytics with advanced DAX measures and optimized data models.
 - **Tech Stack:** Power BI, DAX, Power Query
 - **Key Features:** Policy tracking, claims analysis, business intelligence reporting
 
